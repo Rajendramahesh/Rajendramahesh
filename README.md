@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajendramahesh
-- 👀 I’m interested in data related stuff like ML,AI. 
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on any basic projects in Data science
+-  I’m interested in data related stuff like ML,AI. 
+-  I’m currently learning Data science
+-  I’m looking to collaborate on any basic projects in Data science
 - 📫 How to reach me : rajendramahesh25@gmail.com
 
 <!---
