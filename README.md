@@ -1,4 +1,4 @@
-Hi there, I'm Rajendra! 👋
+### Hi there, I'm Rajendra! 👋
 
 - 🎓 Graduate student at Yeshiva University, majoring in **Data Analytics and Visualization**.  
 - 💡 Skilled in **BI tools** (Tableau, Power BI), **Python**, **SQL**, and **R**.  
