@@ -1,9 +1,9 @@
-### Hi there, I'm Rajendra! 👋
+### Hi there, I'm Mahesh! 👋
 
 - 🎓 Graduate student at Yeshiva University, majoring in **Data Analytics and Visualization**.  
 - 💡 Skilled in **BI tools** (Tableau, Power BI), **Python**, **SQL**, and **R**.  
 - 🤖 Passionate about **Machine Learning**, **AI**, and building intelligent workflows.  
-- 📊 Love turning data into meaningful insights and stunning visualizations.  
+- 📊 Love turning data into meaningful insights and stunning visualisations.  
 - 🌱 Always learning and exploring new technologies to solve real-world problems.  
 
 Let’s connect and build something amazing together! 🚀
